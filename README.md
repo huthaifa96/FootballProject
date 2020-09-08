@@ -8,17 +8,17 @@ When a team is selected, the team description and the number of trophies won wil
 
 ## Class Diagram
 
-![ClassDiagrams](https://github.com/huthaifa96/FootballProject/tree/master/Images/ClassDiagrams.PNG)
+![ClassDiagrams](https://raw.githubusercontent.com/huthaifa96/FootballProject/master/Images/ClassDiagrams.PNG)
 
 ## Project Board
 
-![ProjectBoard](https://github.com/huthaifa96/FootballProject/tree/master/Images/ProjectBoard.PNG)
+![ProjectBoard](https://raw.githubusercontent.com/huthaifa96/FootballProject/master/Images/ProjectBoard.PNG)
 
 ## Application
 
-![Teams](https://github.com/huthaifa96/FootballProject/tree/master/Images/Teams.PNG)
+![Teams](https://raw.githubusercontent.com/huthaifa96/FootballProject/master/Images/Teams.PNG)
 
-![Players](https://github.com/huthaifa96/FootballProject/tree/master/Images/Players.PNG)
+![Teams](https://raw.githubusercontent.com/huthaifa96/FootballProject/master/Images/Players.PNG)
 
 
 
