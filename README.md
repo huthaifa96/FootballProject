@@ -8,7 +8,7 @@ When a team is selected, the team description and the number of trophies won wil
 
 ## Class Diagram
 
-[]
+![https://github.com/huthaifa96/FootballProject/Images/ClassDiagrams.PNG]
 
 ## Sprints
 
@@ -38,7 +38,7 @@ I came across a little issue with the database so I had to reshuffle some column
 
 ##### Sprint Retrospective
 
-The major blocker for this sprint was the reshuffling of the database and the data in it. I think next time, it's better to create an ERD so the database can be visualsied right from the beginning. It took a while to get my different CRUD operations working, but I eventually got started after asking for support from the team and going back through the lesson videos.
+The major blocker for this sprint was the reshuffling of the database and the data in it. I think next time, it's better to create an ERD so the database can be visualised right from the beginning. It took a while to get my different CRUD operations working, but I eventually got started after asking for support from the team and going back through the lesson videos.
 
 #### Sprint 3
 
