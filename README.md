@@ -8,7 +8,19 @@ When a team is selected, the team description and the number of trophies won wil
 
 ## Class Diagram
 
-![https://github.com/huthaifa96/FootballProject/Images/ClassDiagrams.PNG]
+![ClassDiagrams](C:\Github\FootballProject\Images\ClassDiagrams.PNG)
+
+## Project Board
+
+![ProjectBoard](C:\Github\FootballProject\Images\ProjectBoard.PNG)
+
+## Application
+
+![Teams](C:\Github\FootballProject\Images\Teams.PNG)
+
+![Players](C:\Github\FootballProject\Images\Players.PNG)
+
+
 
 ## Sprints
 
@@ -90,5 +102,17 @@ The aim of this final sprint is to add a background image, check all the data is
 
 ##### Sprint Review
 
+After encountering small problems with the background image, everything was sorted. The database had the relevant data in there and the project board is up to date.
+
 
 ##### Sprint Retrospective
+
+This project has been a big learning curve. I've managed to produce my MVP in the end which I'm happy about but there's a few improvements that could be made:
+
+- Creating a homepage
+
+- A navigation window
+- Utilising drop down menus
+- A quiz
+
+I look forward to developing this application in the future.
